@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1702537732 source:c:\testing\testing ide\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
